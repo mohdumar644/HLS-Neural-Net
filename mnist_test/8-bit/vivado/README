@@ -1,0 +1,2 @@
+In Vivado, add the IP repository, then in TCL console do
+source design.tcl
