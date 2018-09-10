@@ -6,7 +6,7 @@ An extension of the HLS library in [RFNOC-HLS-NeuralNet](https://github.com/Xili
 
 Use [Ristretto-Caffe](http://lepsucd.com/?page_id=621) to train and fine-tine a quantized deep network on the MNIST dataset. 
 
-Extract the weights using the provided scripts, and convert into suitable format for HLS/SDK.
+Extract the weights using the [provided scripts](train_caffe_ristretto_quantize), and convert into suitable format for HLS/SDK.
 
 Use the provided scipts to generate and HLS project. Co-sim and verify your network.
 
